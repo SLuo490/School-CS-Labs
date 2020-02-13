@@ -18,7 +18,7 @@ int main()
     cout << "Enter the second number: ";
     cin >> num2;
     
-    cout << "The smallest number is: " << min(num1, num2) << endl; //print the smallest number of                                                               the two
+    cout << "The smallest number is: " << min(num1, num2) << endl; //print the smallest number of two                                                                the two
     return 0;
 }
 
